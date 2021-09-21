@@ -1,2 +1,2 @@
 # MediumActivationFunctions
-Source Code for article published on Medium about activation functions.
+Source Code associated with article published on Medium about activation functions.
